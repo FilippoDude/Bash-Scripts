@@ -15,9 +15,9 @@ It can:
 EasyDockerManager commands (included also in "EasyDockerManager help"):
 
     Echo all container names:
-        dockerStarter containers
+        EasyDockerManager containers
     Echo all image names:
-        dockerStarter images
+        EasyDockerManager images
     
     Remove container arguments:
         arg 1 - 'rm'
