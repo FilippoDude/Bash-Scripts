@@ -1,5 +1,7 @@
 This is one of my first bash scripts that i actually publish on github.
 
+Right now this section only includes the dockerStarter script wich is a script for linux Docker.
+
 This is a script that is meant to be used for starting up Dockers quickly.
 
 It can:
